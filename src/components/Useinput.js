@@ -25,6 +25,7 @@ const Useinput = () => {
         <div>
             <h1>Hello</h1>
             <input placeholder="Name" {...name} />
+            <hr />
         </div>
     );
 };
